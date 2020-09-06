@@ -1,7 +1,7 @@
-Communicate-Data-Findings
+# Communicate-Data-Findings
 This data set contains information on peer to peer loans facilitated by credit company Prosper. There are 113,937 loans with 81 variables. For the purpose of this investigation I've taken the following variables: Term, LoanStatus, BorrowerRate, ProsperRating (Alpha), ListingCategory (numeric), EmploymentStatus, DelinquenciesLast7Years, StatedMonthlyIncome, TotalProsperLoans, LoanOriginalAmount, LoanOriginationDate, Recommendations and Investors.
 
-Summary of Findings
+## Summary of Findings
 >Most borrowers are employed and full time the rest of the categories represent a small fraction of borrowers
 >Most of the loans in the database are current loans, and the second in the database are completed loans and non-performing loans. A minority in the database, the loans that have passed their repayment time are divided into groups.
 >Most popular is 36 months out of 3 choices
